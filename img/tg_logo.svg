@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>Telegram_logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="66.67%" y1="16.67%" x2="41.67%" y2="75%" id="linearGradient-1">
+            <stop stop-color="#37AEE2" offset="0%"></stop>
+            <stop stop-color="#1E96C8" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="61.2346759%" y1="43.69%" x2="74.7064382%" y2="80.24%" id="linearGradient-2">
+            <stop stop-color="#EFF7FC" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="ContactoBot" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="iPhone-6" sketch:type="MSArtboardGroup" transform="translate(-153.000000, -332.000000)">
+            <g id="Telegram_logo" sketch:type="MSLayerGroup" transform="translate(153.000000, 332.000000)">
+                <circle id="Oval" fill="url(#linearGradient-1)" sketch:type="MSShapeGroup" cx="35" cy="35" r="35"></circle>
+                <path d="M28.5833333,51.0416667 C27.44945,51.0416667 27.642125,50.6135292 27.2510583,49.5338958 L23.9166667,38.5600542 L49.5833333,23.3333333" id="Shape" fill="#C8DAEA" sketch:type="MSShapeGroup"></path>
+                <path d="M28.5833333,51.0416667 C29.4583333,51.0416667 29.8449375,50.6415 30.3333333,50.1666667 L35,45.6289167 L29.1789167,42.1187083" id="Shape" fill="#A9C9DD" sketch:type="MSShapeGroup"></path>
+                <path d="M29.1783333,42.1195833 L43.2833333,52.5405417 C44.8928958,53.4286375 46.054575,52.968825 46.4555,51.0461875 L52.1969583,23.9903125 C52.7847833,21.6335875 51.2985958,20.5646875 49.7588,21.2637542 L16.04505,34.2636292 C13.7437708,35.1866667 13.7571875,36.4705542 15.625575,37.0426292 L24.2772833,39.7429667 L44.3069083,27.1065083 C45.2524625,26.5331208 46.1202875,26.8413862 45.4080083,27.4735417" id="Shape" fill="url(#linearGradient-2)" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

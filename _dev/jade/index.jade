@@ -1,0 +1,24 @@
+doctype html
+html(lang='es')
+    head
+        title ContactoBot
+        meta(charset='utf-8')
+        meta(name='viewport', content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no')
+        meta(name='description', content='Telegram ContactoBot')
+        meta(name='keywords', content='telegram, ContactoBot')
+        meta(name='author', content='@mpalau')
+
+        //- ----- link website ----- //
+        link(rel='icon' href='img/favicon.png' type='image/x-icon')
+        
+        //- ----- Roboto Font ----- //
+        link(href='https://fonts.googleapis.com/css?family=Roboto:100', rel='stylesheet', type='text/css')
+
+        //- ----- CSS Files ----- //
+        link(rel='stylesheet', href='css/style.css')
+    body
+        include _contactoBot.jade
+        
+        script(type='text/javascript', src='https://code.jquery.com/jquery-2.1.4.min.js')
+        
+        script(type='text/javascript', src='js/app.js')
